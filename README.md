@@ -3,4 +3,5 @@
   1. Лабораторная работа №1: ([задачи ML, классификация, моделирование систем в ДУ](https://github.com/ThomasShelby228666/TIPIS_2025/tree/master/Lab_1))
   2. Лабораторная работа №2: ([бот для проверки лабораторных работ (LLM)](https://github.com/ThomasShelby228666/TIPIS_2025/tree/master/Lab_2))
   3. Лабораторная работа №3: ([задачи ML, регрессия для задачи предсказания цены бриллиантов](https://github.com/ThomasShelby228666/TIPIS_2025/tree/master/Lab_3))
+  4. Лабораторная работа №4: ([классификация](https://github.com/ThomasShelby228666/TIPIS_2025/tree/master/Lab_4))
      
