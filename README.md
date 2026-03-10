@@ -10,4 +10,4 @@
 ## Особые благодарности:
 - [Человеек, из-за которого чуть не взорвался мой процессор](https://github.com/KEKCHEK1337)
 - [Легенда, затащившая ТИПИС в последний день](https://github.com/Arturchik2004)
-- [Тимлид по всему](https://github.com/QuiteHorn)
+- [Matlab system design](https://github.com/QuiteHorn)
